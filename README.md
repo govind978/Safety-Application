@@ -4,7 +4,7 @@ This is an emergency application or SOS app. This app will help the users to cal
 
 # FEATURES:
 
-1. Call emergency number (999 for BD)
+1. Call emergency number 
 2. Sending messages to the numbers user has set up (As much as user wants)
 3. Sending their current location with message
 4. User can also get numbers of AMBULANCE, POLICE, FIRE SERVICE and call these numbers straight.
